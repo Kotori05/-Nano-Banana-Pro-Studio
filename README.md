@@ -48,7 +48,9 @@
 * 将 API Key 粘贴到文件中（纯文本，不要包含引号）。
 
 ### **5.🚀 运行**
-* python banana.py
+* cd /location
+* python ./nano-banana-pro.py
+* 会自动生成output文件夹和配置文件存档config.json
 
 ### **6.tips：**
 * gemini-3-pro-image-preview 目前不支持系统提示词，请把系统提示写到对话中，其他模型可以用系统提示词输入框。
